@@ -17,7 +17,7 @@
 			<WaterBody>
 				<Type>ocean</Type>
 				<Color r="0" g="0.0431373" b="0.282353"/>
-				<Tint r="0.466667" g="0.768627" b="0.858824"/>
+				<Tint r="0.466667" g="0.764706" b="0.858824"/>
 				<Height>19.9</Height>
 				<Waviness>2</Waviness>
 				<Murkiness>0.82</Murkiness>
@@ -42,14 +42,12 @@
   "AISeed": 0,
   "CircularMap": true,
   "Description": "Teams start off with nearly adjacent civic centers on a small island, offering a fortified base from which to expand.",
-  "Keywords": [
-    "naval"
-  ],
+  "Keywords": [],
   "LockTeams": false,
   "Name": "0Islands",
   "Nomad": false,
   "PlayerData": [
-    null,
+    "",
     {
       "Civ": "gaul",
       "Team": 0
